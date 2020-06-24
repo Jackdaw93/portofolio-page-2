@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Fjalla+One&family=Roboto+Slab&family=Sriracha&display=swap');
+
+/* .col-md {
+  border: 1px solid black;
+} */
+
+#title,
+#nav-menu {
+    font-family: "Sriracha", cursive;
+}
+
+#name {
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+#describe {
+    font-family: 'Cairo', sans-serif;
+}
+
+.navbar {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.container-md {
+    margin-top: 50px;
+}
+
+img {
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.progress {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 30px
+}
